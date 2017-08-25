@@ -1,0 +1,2 @@
+# interview
+solution for leecode
